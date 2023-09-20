@@ -1,0 +1,86 @@
+#navmenu {
+    width: 10%;
+    background-color: bisque;
+    font-size: 25px;
+    color: black;
+    text-align: center;
+    padding: 40px;
+    border-radius: 10%;
+}
+
+#dado1 {
+    color: black;
+    border-color: black;
+    width: 100px;
+    height: 25px;
+    font-size: 25px;
+    cursor: pointer;
+    background-color: darkslategrey;
+    border: none;
+    color: white;
+    border-radius: 7%;
+    box-shadow: 2px 3px #000000;
+}
+#dado2 {
+    color: black;
+    border-color: black;
+    width: 100px;
+    height: 25px;
+    font-size: 25px;
+    cursor: pointer;
+    background-color: darkslategrey;
+    border: none;
+    color: white;
+    border-radius: 7%;
+    box-shadow: 2px 3px #000000;
+}
+#dado3 {
+    color: black;
+    border-color: black;
+    width: 100px;
+    height: 25px;
+    font-size: 25px;
+    cursor: pointer;
+    background-color: darkslategrey;
+    border: none;
+    color: white;
+    border-radius: 7%;
+    box-shadow: 2px 3px #000000;
+}
+#dado4 {
+    color: black;
+    border-color: black;
+    width: 100px;
+    height: 25px;
+    font-size: 25px;
+    cursor: pointer;
+    margin: 3px;
+    background-color: darkslategrey;
+    border: none;
+    color: white;
+    border-radius: 7%;
+    box-shadow: 2px 3px #000000;
+}
+#btn1 {
+    border-radius: 5px;
+    box-shadow: 3px 2px #000000;
+    padding: 10px 20px;
+    text-align: center;
+    background-color: rgb(134, 129, 129);
+    color: rgb(255, 255, 255);
+}
+#btn2 {
+    border-radius: 5px;
+    box-shadow: 3px 2px #000000;
+    padding: 10px 20px;
+    text-align: center;
+    background-color: rgb(134, 129, 129);
+    color: rgb(255, 255, 255);
+}
+button:active {
+    box-shadow: 3px 2px #000000;
+}
+button:hover {
+    background-color: #c0c0c0;
+    box-shadow: 5px 4px #000000;
+}
